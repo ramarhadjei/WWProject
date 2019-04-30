@@ -3,10 +3,11 @@ WWQuestions
 Question 2:
 
 
- Wrote an automated scrpt to test the following:
+
 The following exercise does not require user login. Please use ID or class as selectors.
  
-Steps:
+
+ Wrote an automated scrpt to test the following:Steps:
 1. Navigate to https://www.weightwatchers.com/us/
 2. Verify loaded page title matches “Weight Loss Program, Recipes & Help | Weight Watchers”
 3. On the right corner of the page, click on “Find a Meeting”
