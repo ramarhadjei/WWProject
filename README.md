@@ -1,6 +1,6 @@
 # WWProject
 WWQuestions
-Question 2:
+Question 1;Question 2; & 3
 
 
 
@@ -18,3 +18,22 @@ The following exercise does not require user login. Please use ID or class as se
 8. From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
  
 Write an automated test for this scenario using WebDriver
+
+
+Provided solutions to following Java problems
+Question 1:
+a.	Create a method called doesFileExist(String path) which takes the path of the file and tells the user if the file exists at that path or not. Assume all paths are relative to your project structure. If the file does not exist, catch the requisite exception.
+b.	Read each word and its possible meanings and print them out. Your output should look like this:
+ 
+Word1
+Meaning 1
+Meaning 2
+Word2
+Meaning1
+Meaning2
+
+
+
+Question 3:
+Generate 500 random numbers and print the nth smallest number in a programming language of your choice 
+
